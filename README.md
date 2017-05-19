@@ -3,9 +3,11 @@
 ## La Quotidiana, 1997–2008
 
 Articles from the Romansh-language newspaper “La Quotidiana” between
-1997 and 2008.  Copyright by [Somedia](http://www.somedia.ch/);
-released under the [Creative Commons Zero “CC0” license](
-https://creativecommons.org/choose/zero/).
+1997 and 2008.  The newspaper publisher [Somedia](http://www.somedia.ch/)
+has dedicated this corpus to the public domain
+under [Creative Commons Zero “CC0”](
+https://creativecommons.org/publicdomain/zero/1.0/deed).
+
 
 | Language variant     | IETF BCP47 language code |          Corpus size  |
 | -------------------- | ------------------------ | --------------------- |
