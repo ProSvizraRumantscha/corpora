@@ -16,9 +16,9 @@ This work is published from Switzerland.
 
 | Language variant     | IETF BCP47 language code |          Corpus size  |
 | -------------------- | ------------------------ | --------------------- |
-| Rumantsch Sursilvan  | `rm-sursilv`             |   13.5 million tokens |
-| Rumantsch Vallader   | `rm-vallader`            |    6.3 million tokens |
-| Rumantsch Grischun   | `rm-rumgr`               |    5.6 million tokens |
-| Rumantsch Surmiran   | `rm-surmiran`            |    3.3 million tokens |
+| Rumantsch Sursilvan  | `rm-sursilv`             |   14.6 million tokens |
+| Rumantsch Vallader   | `rm-vallader`            |    6.2 million tokens |
+| Rumantsch Grischun   | `rm-rumgr`               |    6.1 million tokens |
+| Rumantsch Surmiran   | `rm-surmiran`            |    2.9 million tokens |
 | Rumantsch Puter      | `rm-puter`               |    1.3 million tokens |
 | Rumantsch Sutsilvan  | `rm-sutsilv`             |    1.3 million tokens |
