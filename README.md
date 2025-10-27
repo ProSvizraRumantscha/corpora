@@ -22,3 +22,5 @@ This work is published from Switzerland.
 | Rumantsch Surmiran   | `rm-surmiran`            |    2.9 million tokens |
 | Rumantsch Puter      | `rm-puter`               |    1.3 million tokens |
 | Rumantsch Sutsilvan  | `rm-sutsilv`             |    1.3 million tokens |
+
+A processed version of the dataset (including more recent articles) is available here: https://huggingface.co/datasets/ZurichNLP/quotidiana
